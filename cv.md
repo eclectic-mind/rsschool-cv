@@ -1,9 +1,9 @@
 # Maria Korolkova
 #### Contact info:
-~e-mail~: [maria.korolkova@gmail.com](maria.korolkova@gmail.com)
-~skype~: maria.korolkova1
-~telegram~: eclectic_mind
-~ ~: Saint-Petersburg, Russia
+_e-mail_: [maria.korolkova@gmail.com](maria.korolkova@gmail.com)
+_skype_: maria.korolkova1
+_telegram_: eclectic_mind
+_location_: Saint-Petersburg, Russia
 #### Summary:
 **Goals**:
 [ ] To become a professional frontend developer
@@ -36,6 +36,21 @@ code: [https://github.com/eclectic-mind/reproduction-src](https://github.com/ecl
 * [Interior Design - responsive shop](https://github.com/eclectic-mind/interior-design)
 * [ToDo - small SPA on JS](https://github.com/eclectic-mind/to-do-app-webcademy)
 #### Education:
-* 
+* HTML Academy, Профессиональный JavaScript, уровень 2. 2020
+* Oneway, Front-end разработка в e-commerce. 2020
+* OpenEdu, Разработка сайта на WordPress. 2020
+* Марафон Зара Захарова по React. 2020.
+* Webflow Онлайн-школа Максима Соколова, Верстка сайтов в сервисе Webflow. 2020
+* HTML Academy, Профессиональный JavaScript, уровень 1. 2019
+* FructCode, JavaScript/JQuery. 2019
+* Udemy, Интенсивное погружение в JavaScript. 2019
+* Stepik, Веб-разработка для начинающих: HTML и CSS. 2019
+* Stepik, JavaScript для начинающих. 2019
+* ИНТУИТ, HTML5. Основы клиентской разработки. 2019
+* ИНТУИТ, Основы JavaScript. 2019
+* ИНТУИТ, CSS2: Основы. 2019
+* GeekBrains, HTML/CSS. Интерактивный курс. 2019
+* Нетология, Основы HTML и CSS. 2019
+* СПбГУСЭ, 2002. Связи с общественностью.
 #### English:
 B2 / Upper intermediate. I can read, write, speak and, of course, google in English.
