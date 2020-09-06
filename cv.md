@@ -1,12 +1,12 @@
 # Maria Korolkova
 #### Contact info:
-_e-mail_: [maria.korolkova@gmail.com](maria.korolkova@gmail.com)
-_skype_: maria.korolkova1
-_telegram_: eclectic_mind
-_location_: Saint-Petersburg, Russia
+_e-mail_: [maria.korolkova@gmail.com](maria.korolkova@gmail.com)  
+_skype_: maria.korolkova1  
+_telegram_: eclectic_mind  
+_location_: Saint-Petersburg, Russia  
 #### Summary:
 **Goals**:
-[ ] To become a professional frontend developer
+[ ]To become a professional frontend developer
 [ ] To make a substantial portfolio
 [ ] To get a job it IT company
 **Wishes and dreams**:
@@ -28,13 +28,13 @@ _location_: Saint-Petersburg, Russia
 * Content management in various CMS: ****
 * Photoshop: ****
 #### Experience & code examples:
-* [CinemaAddict](https://eclectic-mind.github.io/cinemaaddict-public/)
-code: [https://github.com/eclectic-mind/257627-cinemaddict-11](https://github.com/eclectic-mind/257627-cinemaddict-11)
-* [Reproduction - paintings shop](https://eclectic-mind.github.io/reproduction-public/)
-code: [https://github.com/eclectic-mind/reproduction-src](https://github.com/eclectic-mind/reproduction-src)
-* [Ghostbusters - responsive landing for movie](https://github.com/eclectic-mind/ghostbusters)
-* [Interior Design - responsive shop](https://github.com/eclectic-mind/interior-design)
-* [ToDo - small SPA on JS](https://github.com/eclectic-mind/to-do-app-webcademy)
+* [CinemaAddict](https://eclectic-mind.github.io/cinemaaddict-public/)  
+code: [https://github.com/eclectic-mind/257627-cinemaddict-11](https://github.com/eclectic-mind/257627-cinemaddict-11)  
+* [Reproduction - paintings shop](https://eclectic-mind.github.io/reproduction-public/)  
+code: [https://github.com/eclectic-mind/reproduction-src](https://github.com/eclectic-mind/reproduction-src)  
+* [Ghostbusters - responsive landing for movie](https://github.com/eclectic-mind/ghostbusters)  
+* [Interior Design - responsive shop](https://github.com/eclectic-mind/interior-design)  
+* [ToDo - small SPA on JS](https://github.com/eclectic-mind/to-do-app-webcademy)  
 #### Education:
 * HTML Academy, Профессиональный JavaScript, уровень 2. 2020
 * Oneway, Front-end разработка в e-commerce. 2020
