@@ -51,6 +51,6 @@ code: [https://github.com/eclectic-mind/reproduction-src](https://github.com/ecl
 * ИНТУИТ, CSS2: Основы. 2019
 * GeekBrains, HTML/CSS. Интерактивный курс. 2019
 * Нетология, Основы HTML и CSS. 2019
-* СПбГУСЭ, 2002. Связи с общественностью.
+* СПбГУСЭ, 2002-2007. Связи с общественностью.
 #### English:
 B2 / Upper intermediate. I can read, write, speak and, of course, google in English.
