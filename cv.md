@@ -6,12 +6,12 @@ _telegram_: eclectic_mind
 _location_: Saint-Petersburg, Russia  
 #### Summary:
 **Goals**:
-[ ]To become a professional frontend developer
-[ ] To make a substantial portfolio
-[ ] To get a job it IT company
-**Wishes and dreams**:
-[ ] To make perfect websites and apps
-[ ] To improve my coding skills regularly
+* To become a professional frontend developer  
+* To make a substantial portfolio  
+* To get a job it IT company  
+**Wishes and dreams**:  
+* To make perfect websites and apps  
+* To improve my coding skills regularly  
 #### Skills:
 * HTML5, CSS3: ****
 * JavaScript: ** (basics - ES5, ES6)
