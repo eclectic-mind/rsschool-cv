@@ -1,0 +1,42 @@
+body {
+  background-color: #eeeeee;
+}
+main {
+  display: block;
+  max-width: 1024px;
+  margin: 20px auto;
+  background-color: #ffffff;
+  padding: 40px;
+}
+figure {
+  display: block;
+  float: right;
+  margin: 0 0 30px 30px;
+}
+figure img {
+  max-width: 250px;
+}
+
+.contacts {
+  background-color: #d6d6d6;
+  padding: 5px 25px;
+  max-width: fit-content;
+  display: block;
+}
+
+.rate {
+  display: inline-block;
+  margin: 0 0 0 20px;
+}
+.rate span {
+  width: 10px;
+  height: 10px;
+  border: #ff0000 solid 1px;
+  display: block;
+  float: left;
+  margin: 0 1px;
+}
+
+.full {
+  background-color: #ff0000;
+}
